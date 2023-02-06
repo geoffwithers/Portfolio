@@ -1,6 +1,9 @@
 
-
-
+/*Should I have used @media to make a responsive layout? 
+@media screen (max-width: ;){
+}
+    ?*/
+/*all i've done to affect responsive layout is apply flex-wrap:wrap to everything*/
 
 .header {
     padding: 10px;
@@ -126,6 +129,8 @@
     border: 5px solid black;
 }
 
+/*Not sure how to get the project 1 refactoring image to be taller*/
+/*Also want the background-color behind the title to be less wide*/
 #project-1 {
     border-radius: 20px;
     width: 98.3%;
